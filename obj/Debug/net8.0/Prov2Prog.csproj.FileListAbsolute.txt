@@ -1,0 +1,14 @@
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\bin\Debug\net8.0\Prov2Prog.exe
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\bin\Debug\net8.0\Prov2Prog.deps.json
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\bin\Debug\net8.0\Prov2Prog.runtimeconfig.json
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\bin\Debug\net8.0\Prov2Prog.dll
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\bin\Debug\net8.0\Prov2Prog.pdb
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.AssemblyInfoInputs.cache
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.AssemblyInfo.cs
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.dll
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\refint\Prov2Prog.dll
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.pdb
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\Prov2Prog.genruntimeconfig.cache
+C:\Users\hugo.sundstrom\Documents\Prov2Prog\obj\Debug\net8.0\ref\Prov2Prog.dll

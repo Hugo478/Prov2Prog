@@ -1,0 +1,42 @@
+public class CarInfo(){
+    // All combinerad info vi behöver från bilarna
+    public int Passengers;
+    public int ContrabandAmount;
+    public bool AlreadyChecked;
+
+    // När den körs kollar den om bilen har contraband eller inte och ger tillbaka svar
+    public bool Examine(){
+        // Gör så att det änklare att komma undan med mindre contraband
+        if (ContrabandAmount==1)
+        {
+            new int Dodge=Random.Shared.Next(1,3);
+        }
+        if (ContrabandAmount==2)
+        {
+            new int Dodge=Random.Shared.Next(1,4);
+        }
+        if (ContrabandAmount==3)
+        {
+            new int Dodge=Random.Shared.Next(1,5);
+        }
+        if (ContrabandAmount==4)
+        {
+            new int Dodge=Random.Shared.Next(1,6);
+        }
+
+
+        // Kollar om det finns contraband och skickar tillbaka svar
+        // Det finns en risk att contrabands kollas över och ger tillbaka false
+        if (ContrabandAmount > 0)
+        {
+            return true;
+        }
+        else if (ContrabandAmount < || Dodge == 1)
+        {
+            return false;
+        }
+
+        // Gör så att bilen inte kan kollas igen
+        AlreadyChecked = true;
+    };
+}

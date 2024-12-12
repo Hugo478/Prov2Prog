@@ -1,0 +1,9 @@
+public class ContrabandCars(){
+    // Contraband car info
+    public void ContrabandCar(){
+        new int ContrabandPassenger = Random.Shared.Next(1,4);
+        CarInfo.Passengers = ContraBandPassenger;
+        new int Contraband = Random.Shared.Next(1,4);
+        CarInfo.ContrabandAmount = ContraBand;
+    };
+}
